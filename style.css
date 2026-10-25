@@ -16,6 +16,7 @@ input[type=search]{width:100%;padding:.7rem;font-size:1rem;border:1px solid var(
 footer{max-width:46rem;margin:0 auto;padding:1rem 1rem 2rem;font-size:.9rem;color:var(--muted);border-top:1px solid var(--line)}
 @media (min-width:48rem){header.site{padding:2rem}header.site h1{font-size:2rem}}
 /* homepage additions */
+.avatar{width:96px;height:96px;border-radius:50%;object-fit:cover;border:3px solid #fff;display:block;margin-bottom:12px}
 .hero{background:var(--accent);color:#fff;padding:2.5rem 1rem 2rem}
 .hero .wrap{max-width:46rem;margin:0 auto;display:flex;gap:1rem;align-items:center;flex-wrap:wrap}
 .mono{flex:0 0 auto;width:4.5rem;height:4.5rem;border-radius:50%;background:#fff;color:var(--accent);display:grid;place-items:center;font-weight:700;font-size:1.6rem;letter-spacing:.02em}
